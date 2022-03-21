@@ -3,7 +3,7 @@ Para o desenvolvimento foi utilizado a o framework  https://github.com/pyscripte
 
 
 ## Criando conexão ssh com delphi
-Para o uso é necessário gerar ums key RSA:
+Para o uso é necessário gerar sua key RSA:
 
 >>ssh-keyscan -t rsa seuhost
 
