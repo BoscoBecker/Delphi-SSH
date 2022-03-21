@@ -10,5 +10,7 @@ Para o uso é necessário gerar sua key RSA:
 Adicionar a Key gerado ao arquivo 
 >>%USERPROFILE% + .ssh\known_hosts
 
+Descompactar a "libssh2.rar" onde fica o execuável
+
 E estabelecer a conexão com o host desejado.
 
