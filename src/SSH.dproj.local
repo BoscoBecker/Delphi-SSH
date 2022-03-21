@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/17 13:58:45.000.520,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/24 11:47:31.000.829,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/24 13:40:41.000.251,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/09 17:13:29.000.680,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/10 14:27:17.000.709,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/10 14:28:20.000.534,=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SftpClient.pas</Transaction>
+    <Transaction>2022/03/10 14:28:20.000.541,=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SocketUtils.pas</Transaction>
+    <Transaction>2022/03/10 14:28:20.000.526,=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\libssh2_sftp.pas</Transaction>
+    <Transaction>2022/03/10 14:28:20.000.503,=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\libssh2.pas</Transaction>
+    <Transaction>2022/03/10 14:28:20.000.558,=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SshTunnel.pas</Transaction>
+    <Transaction>2022/03/10 14:28:20.000.519,=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\libssh2_publickey.pas</Transaction>
+    <Transaction>2022/03/10 14:28:20.000.550,=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\Ssh2Client.pas</Transaction>
+    <Transaction>2022/03/10 14:39:28.000.546,C:\Users\DevDelphi\Desktop\Delphi SSH\main.dfm=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/03/10 14:39:28.000.546,C:\Users\DevDelphi\Desktop\Delphi SSH\main.pas=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/10 14:39:34.000.056,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SSH.dproj=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/03/10 14:49:02.000.594,C:\Users\DevDelphi\Desktop\Delphi SSH\SSH.dproj=C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SSH.dproj</Transaction>
+    <Transaction>2022/03/17 16:58:03.000.931,=C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.libeay32.pas</Transaction>
+    <Transaction>2022/03/17 16:58:03.000.938,=C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.RandUtils.pas</Transaction>
+    <Transaction>2022/03/17 16:58:03.000.946,=C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.RSAUtils.pas</Transaction>
+    <Transaction>2022/03/17 16:58:03.000.915,=C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.Core.pas</Transaction>
+    <Transaction>2022/03/17 16:58:03.000.923,=C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.EncUtils.pas</Transaction>
+    <Transaction>2022/03/17 16:58:03.000.953,=C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.SMIMEUtils.pas</Transaction>
+    <Transaction>2022/03/21 09:04:28.659,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SshTunnel.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.687,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\Ssh2Client.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.712,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SocketUtils.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.748,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\SftpClient.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.788,C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.SMIMEUtils.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.813,C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.RSAUtils.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.837,C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.RandUtils.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.862,C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.libeay32.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.885,C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.EncUtils.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:28.909,C:\Users\DevDelphi\Desktop\Delphi-OpenSSL-master\Delphi-OpenSSL-master\Source\OpenSSL.Core.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:32.596,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\libssh2_sftp.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:32.625,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\libssh2_publickey.pas=</Transaction>
+    <Transaction>2022/03/21 09:04:32.663,C:\Users\DevDelphi\Desktop\Ssh-Pascal-master\Ssh-Pascal-master\Source\libssh2.pas=</Transaction>
+    <Transaction>2022/03/21 09:06:08.699,C:\Users\DevDelphi\Desktop\Delphi SSH\src\SSH.dproj=C:\Users\DevDelphi\Desktop\Delphi SSH\SSH.dproj</Transaction>
+    <Transaction>2022/03/21 09:06:22.712,C:\Users\DevDelphi\Desktop\Delphi SSH\src\SSHMain.pas=C:\Users\DevDelphi\Desktop\Delphi SSH\main.pas</Transaction>
+    <Transaction>2022/03/21 09:06:22.712,C:\Users\DevDelphi\Desktop\Delphi SSH\src\SSHMain.dfm=C:\Users\DevDelphi\Desktop\Delphi SSH\main.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
