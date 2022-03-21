@@ -3,11 +3,11 @@ Para o desenvolvimento foi utilizado a o framework  https://github.com/pyscripte
 
 
 ## Criando conexão ssh com delphi
-Para o uso é necessário gerar ums key RSA:
+Para o uso é necessário gerar sua key RSA:
 
 >>ssh-keyscan -t rsa seuhost
 
-Adicionar a Key gerado no ao arquivo 
+Adicionar a Key gerado ao arquivo 
 >>%USERPROFILE% + .ssh\known_hosts
 
 E estabelecer a conexão com o host desejado.
